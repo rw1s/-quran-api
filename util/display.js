@@ -25,7 +25,7 @@ const home = {
 			},
 		},
 	},
-	author: 'Rizky Aulia Tumangger | @GJQKP | iyaddz[at]iyaddz.ml',
+	author: 'Iyad Belamri | @GJQKP | iyaddz[at]iyaddz.ml',
 	docs: 'https://t.me/qrapi1',
 };
 
