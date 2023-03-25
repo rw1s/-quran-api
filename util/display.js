@@ -14,14 +14,14 @@ const preBismillah = {
 const home = {
 	endpoint: {
 		imam: {
-			list: `${BASE_URI}/imam`,
-			each: `${BASE_URI}/imam/:id`,
+			list: `https://quran-ez7s6l24g-gjqkp.vercel.app/imam`,
+			each: `https://quran-ez7s6l24g-gjqkp.vercel.app/imam/:id`,
 		},
 		quran: {
-			list: `${BASE_URI}/quran`,
+			list: `https://quran-ez7s6l24g-gjqkp.vercel.app/quran`,
 			spesific: {
-				surah: `${BASE_URI}/quran{/:surah}`,
-				ayah: `${BASE_URI}/quran{/:surah}{/:ayah}`,
+				surah: `https://quran-ez7s6l24g-gjqkp.vercel.app/quran{/:surah}`,
+				ayah: `https://quran-ez7s6l24g-gjqkp.vercel.app/quran{/:surah}{/:ayah}`,
 			},
 		},
 	},
